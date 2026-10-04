@@ -1,0 +1,8 @@
+# HTTrack metadata and cache files
+hts-cache/
+hts-log.txt
+hts-ioinfo.txt
+hts-err.txt
+hts-stats.txt
+backblue.gif
+fade.gif
